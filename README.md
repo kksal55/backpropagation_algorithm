@@ -19,5 +19,3 @@ Eğitim tamamlandıktan sonra, model, veri kümesindeki tüm örnekler üzerinde
 
 Bu model, XOR işlevini öğrenmek için yalnızca bir gizli katman kullandı. Ancak, daha karmaşık problemler genellikle daha fazla gizli katman veya daha fazla gizli nöron gerektirir. Bu, YSA modellerinin karmaşıklığının, çözülmeye çalışılan probleme bağlı olarak değişebileceğini gösterir.
 
-Main.py çalıştırıldığında çıktımız aşağıdaki gibi olacaktır.
-![image](https://github.com/kksal55/backpropagation_algorithm/assets/11652726/17beb6d3-1fa4-42ea-b89a-ca61e71aaaf9)
