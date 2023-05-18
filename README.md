@@ -3,7 +3,7 @@ Bu projede, XOR işlevini öğrenmek için bir Yapay Sinir Ağı (YSA) modeli ol
 
 ## Veri Kümesi:
 Bu projede, XOR işlevini öğrenmek için bir yapay sinir ağı (YSA) modeli oluşturduk. XOR işlevi, iki binary giriş alır ve bu girişlerin biri 1 ve diğeri 0 ise 1 döndürür, aksi takdirde 0 döndürür. Veri kümesi, bu XOR işlevinin tüm olası giriş ve çıkışlarını içerir:
-
+![Çıktı Ekranı](ornek.png)
 
 ##Veri Ön işleme:
 Bu özel durumda, veri ön işlemeye gerek yoktu çünkü veriler zaten modelin gerektirdiği formattaydı (listeler halinde binary giriş ve çıkış değerleri). Her ne kadar bu basit örnekte veri önişleme adımına ihtiyaç duyulmasa da, gerçek hayatta kullanılan veri kümeleri genellikle bu tür bir işlem gerektirir. Veri önişleme, verilerin model tarafından daha kolay işlenmesini sağlar ve genellikle modelin performansını iyileştirir.
