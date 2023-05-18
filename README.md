@@ -17,7 +17,7 @@ Modelin eğitimi, veri kümesindeki örnekler üzerinde 5000 iterasyonun gerçek
 ## Sonuçlar ve Değerlendirme:
 Eğitim tamamlandıktan sonra, model, veri kümesindeki tüm örnekler üzerinde test edilir. Bu, modelin XOR işlevini ne kadar iyi öğrendiğini değerlendirmek için kullanılır. Sonuçlar genellikle yüksek doğruluk seviyesinde olacaktır, ancak her öğrenme döngüsü biraz farklı sonuçlar verebilir çünkü ağırlıklar başlangıçta rastgele atanmıştır. Bu projede, model, eğitim örneklerini doğru bir şekilde sınıflandırabildiği ve XOR işlevini başarıyla öğrendiği için, sonuçlar başarılı olarak değerlendirilmiştir.  Sonuç olarak, bu proje, bir YSA modelinin nasıl oluşturulacağını, eğitileceğini ve test edileceğini gösterir. Ayrıca, modelin hiperparametrelerinin (örneğin öğrenme hızı ve momentum) modelin sonuçları üzerinde önemli bir etkisi olabileceğini gösterir. Bu nedenle, bir YSA modelini eğitirken bu hiperparametrelerin dikkatlice seçilmesi önemlidir.
 
-Bu model, XOR işlevini öğrenmek için yalnızca bir gizli katman kullandı. Ancak, daha karmaşık problemler genellikle daha fazla gizli katman veya daha fazla gizli nöron gerektirir. Bu, YSA modellerinin karmaşıklığının, çözülmeye çalışılan probleme bağlı olarak değişebileceğini gösterir.
+Bu model, XOR işlevini öğrenmek için yalnızca bir gizli katman kullandı. Ancak, daha karmaşık problemler genellikle daha fazla gizli katman veya daha fazla gizli nöron gerektirir. Bu, YSA modellerinin karmaşıklığının, çözülmeye çalışılan probleme bağlı olarak değişebileceğini gösterir. 
 
 ![Çıktı Ekranı](cikti.png)
 
