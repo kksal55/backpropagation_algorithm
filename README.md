@@ -19,3 +19,5 @@ Eğitim tamamlandıktan sonra, model, veri kümesindeki tüm örnekler üzerinde
 
 Bu model, XOR işlevini öğrenmek için yalnızca bir gizli katman kullandı. Ancak, daha karmaşık problemler genellikle daha fazla gizli katman veya daha fazla gizli nöron gerektirir. Bu, YSA modellerinin karmaşıklığının, çözülmeye çalışılan probleme bağlı olarak değişebileceğini gösterir.
 
+![Çıktı Ekranı](cikti.png)
+
